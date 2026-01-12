@@ -1,4 +1,4 @@
-# Sketch Showcase Portfolio
+# Sketch Showcase
 
 A minimal, monochrome portfolio website showcasing hand-drawn sketches and photography.
 
