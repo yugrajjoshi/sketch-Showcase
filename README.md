@@ -15,7 +15,7 @@ A minimal, monochrome portfolio website showcasing hand-drawn sketches and photo
 
 ## 🚀 Live Demo
 
-[View Live Site](https://your-username.github.io/sketchShowcase) *(Update after deployment)*
+[View Live Site](https://yugrajjoshi.github.io/sketch-Showcase/)
 
 ## 🛠️ Tech Stack
 
@@ -57,8 +57,8 @@ sketchShowcase/
 ## 📱 Responsive Design
 
 - **Desktop**: 1024px+ (full layout with absolute positioning)
+- optmization for mobile is in progress
 - **Tablet**: 768px - 1024px (stacked layout, 2-column photo grid)
-- **Mobile**: 320px - 767px (single column, optimized spacing)
 
 ## 🎯 Browser Support
 
