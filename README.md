@@ -69,7 +69,7 @@ sketchShowcase/
 
 ## 📄 License
 
-All sketches and photographs are original work. Please do not reproduce without permission.
+All sketches and photographs are original work.
 
 ---
 
