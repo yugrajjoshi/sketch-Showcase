@@ -54,17 +54,4 @@ sketchShowcase/
 - Hover zoom effects
 - Responsive 2-column/1-column on mobile
 
-## 📱 Responsive Design
-
-- **Desktop**: 1024px+ (full layout with absolute positioning)
-- optmization for mobile is in progress
-- **Tablet**: 768px - 1024px (stacked layout, 2-column photo grid)
-
-##  Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
----
 **Created by Yugraj** | 2026
