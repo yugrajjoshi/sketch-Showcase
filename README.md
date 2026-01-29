@@ -40,16 +40,19 @@ sketch-Showcase/
 ## 💡 Key Features Breakdown
 
 ### Dark Mode
+
 - Yin-yang button toggle in top-right
 - Persists across page reloads
 - Smooth theme transitions
 
 ### Gallery Cards
+
 - Quadrant-based 3D tilt effect
 - Hover enlargement with shadows
 - Detailed captions and descriptions
 
 ### Photographs Section
+
 - Variable grid layout
 - Hover zoom effects
 - Responsive 2-column/1-column on mobile
