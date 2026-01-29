@@ -15,7 +15,7 @@ A minimal, monochrome portfolio website showcasing hand-drawn sketches and photo
 
 ## 🚀 Live Demo
 
-[View Live Site](https://your-username.github.io/sketchShowcase) *(Update after deployment)*
+[View Live Site](https://yugrajjoshi.github.io/sketch-Showcase/) 🎨
 
 ## 🛠️ Tech Stack
 
@@ -26,9 +26,9 @@ A minimal, monochrome portfolio website showcasing hand-drawn sketches and photo
 
 ## 📂 Project Structure
 
-```
-sketchShowcase/
-├── skt.html          # Main HTML file
+```bash
+sketch-Showcase/
+├── index.html        # Main HTML file
 ├── skt.css           # Styles and responsive design
 ├── skt.js            # Interactive features
 └── imgs/             # Images and assets
