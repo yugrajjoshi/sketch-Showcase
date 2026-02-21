@@ -55,13 +55,9 @@ sketch-Showcase/
 
 - Variable grid layout
 - Hover zoom effects
-- Responsive 2-column/1-column on mobile
+- Responsive 2-column/1-column on
 
-## 📱 Responsive Design
-
-- **Desktop**: 1024px+ (full layout with absolute positioning)
-- **Tablet**: 768px - 1024px (stacked layout, 2-column photo grid)
-- **Mobile**: 320px - 767px (single column, optimized spacing)
+  fixes
 
 ## 🎯 Browser Support
 
